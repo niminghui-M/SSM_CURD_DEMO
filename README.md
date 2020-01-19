@@ -1,7 +1,6 @@
 # SSM_CURD_DEMO
 基于Spirng、MyBatis和SpringMVC的小练习
 ## 功能点
-  * 管理员登录 -- 进行登录验证、拦截
   * 分页
   * 数据校验:前端校验 Jquery +后端校验 JSR303(SpringMVC自带的标准校验工具)后端校验
   * 使用ajax请求
